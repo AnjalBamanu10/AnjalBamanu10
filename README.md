@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/banner-gif-22389167)][https://github.com/AnjalBamanu10]
+[![MasterHead](https://tenor.com/view/welcome-banner-gif-25050052)]
 <h1 align="center">Hi 👋, I'm Anjal Bamanu</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
